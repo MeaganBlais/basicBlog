@@ -46,6 +46,7 @@ article {
   margin: 0 auto;
 }
 
+/* this and max-width above are being used to create responsive design */
 @media (max-width: 500px) {
   h1 {
     font-size: 36px;
