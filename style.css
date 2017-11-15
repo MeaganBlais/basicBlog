@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background: black;
+  color: white;
+  font-family: helvetica;
+}
+
+img {
+  border-radius: 50%;
+  border: 7px solid white;
+  margin: 40px 0px 0px 0px;
+}
+
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+
+header {
+  text-align: center;
+  background: url("assets/wood-vines-pixabay.jpg");
+  background-size: cover;
+}
+
+ul {
+  padding: 10px;
+  background: black;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
